@@ -1,11 +1,9 @@
 # Past tournaments
 
-* [May 2017, ActionFPS Tournament \#4](https://actionfps.wordpress.com/2017/05/05/may-2017-tournament-4/) \([Challonge](http://challonge.com/actionfps_4)\) 
+* [May 2017, ActionFPS Tournament \#4](https://actionfps.wordpress.com/2017/05/05/may-2017-tournament-4/) \([Challonge](http://challonge.com/actionfps_4)\) - Winner: [**Rising Cubers**](https://actionfps.com/clan/?id=rc)
 * [February 2017, ActionFPS Tournament \#3](https://actionfps.wordpress.com/2017/01/25/february-2017-tournament-3/) \([Challonge](http://challonge.com/actionfps_february_2017_1)\) - Winner: [**United Kingdom**](https://actionfps.com/clan/?id=uk)
 * [January 2017, ActionFPS Tournament \#2](https://actionfps.blogspot.sg/2017/01/january-2017-tournament-2.html) \([Challonge](http://challonge.com/actionfps_january_2017_2)\) - no winner.
 * [January 2017, ActionFPS Tournament \#1](https://actionfps.blogspot.sg/2017/01/january-2017-tournament.html) \([Challonge](http://challonge.com/actionfps_january_2017)\) - Winner: [**Rising Cubers**](https://actionfps.com/clan/?id=rc)
-
-
 
 # FAQ
 
