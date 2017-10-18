@@ -4,7 +4,6 @@
 
 # Repositories
 * [ActionFPS @ GitHub](https://github.com/ScalaWilliam/ActionFPS)
-* [ActionFPS/game-log-parser @ GitHub](https://github.com/ActionFPS/game-log-parser)
 * [ActionFPS/binary-game-parser](https://github.com/ActionFPS/binary-game-parser)
 * [ActionFPS/server-pinger @ GitHub](https://github.com/ActionFPS/server-pinger)
 
@@ -20,7 +19,6 @@
 My preference is to have everything in a single Git repository but I did some refactoring to move the **stable** bits out of the repository into their own libraries/modules/repositories so that the stable stuff does not get in the way any more.
 
 * Portal: https://github.com/ScalaWilliam/ActionFPS
-  * Game definition & game log parser. https://github.com/ActionFPS/game-log-parser
   * Server pinger. https://github.com/ActionFPS/server-pinger
 * syslog ingester for AC: https://github.com/ScalaWilliam/syslog-ac
    Will try to make it generic though.
